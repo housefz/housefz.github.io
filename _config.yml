@@ -17,10 +17,10 @@ title: house_fz
 email: house_fz@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   房子在这里随便写点啥
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 domain: housefz.github.io
 url: "https://housefz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  housefz
+github_username: housefz
 
 # Build settings
 markdown: kramdown
